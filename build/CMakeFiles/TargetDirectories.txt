@@ -1,0 +1,3 @@
+D:/Nikolas/PngToAscii/build/CMakeFiles/main.dir
+D:/Nikolas/PngToAscii/build/CMakeFiles/ALL_BUILD.dir
+D:/Nikolas/PngToAscii/build/CMakeFiles/ZERO_CHECK.dir
