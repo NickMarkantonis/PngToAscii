@@ -322,6 +322,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="D:\Nikolas\PngToAscii\main.cpp" />
+    <ClInclude Include="D:\Nikolas\PngToAscii\RGB.h" />
+    <ClInclude Include="D:\Nikolas\PngToAscii\Image.h" />
+    <ClInclude Include="D:\Nikolas\PngToAscii\imageToAscii.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="D:\Nikolas\PngToAscii\build\ZERO_CHECK.vcxproj">
